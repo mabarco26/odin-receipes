@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.specs {
+    box-sizing: border-box;
+    display: inline-block;
+    width: 49%;
+
+}
+.subtitle {
+    font-weight: bold;
+    background-color:orange;
+    color: black;
+}
+
+.subtitle.info {
+    font-weight: bold;
+}
+
+#description {
+    background-color: grey;
+    font-size: 20px;
+}
+
+.component {
+    font-size: large;
+}
